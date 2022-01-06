@@ -1,10 +1,7 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is my hello world python application. This is to help people practice how to prepare using Github and the future projects.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,9 +9,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+* Python 3.9.7 64-bit
+* Git
+* Github
 
 # Useful Websites
 
