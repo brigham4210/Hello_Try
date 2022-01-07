@@ -9,9 +9,9 @@ This is my hello world python application. This is to help people practice how t
 
 # Development Environment
 
+* Visual Studio Code
 * Python 3.9.7 64-bit
 * Git
-* Github
 
 # Useful Websites
 
